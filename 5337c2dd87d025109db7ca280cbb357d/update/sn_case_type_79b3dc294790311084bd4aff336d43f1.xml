@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_case_type">
+    <sn_case_type action="INSERT_OR_UPDATE">
+        <case_type_table>csm_order_case</case_type_table>
+        <category>1</category>
+        <internal_name>x_792949_enterpris.csm_order_case</internal_name>
+        <short_description>Aman</short_description>
+        <subtype>post_case_review</subtype>
+        <sys_class_name>sn_case_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 11:50:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>79b3dc294790311084bd4aff336d43f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>csm_order_case</sys_name>
+        <sys_package display_value="Enterprise Governance Architecture" source="x_792949_enterpris">5337c2dd87d025109db7ca280cbb357d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Enterprise Governance Architecture">5337c2dd87d025109db7ca280cbb357d</sys_scope>
+        <sys_update_name>sn_case_type_79b3dc294790311084bd4aff336d43f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 11:50:10</sys_updated_on>
+    </sn_case_type>
+</record_update>
